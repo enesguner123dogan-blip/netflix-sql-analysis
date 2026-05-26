@@ -1,13 +1,4 @@
-[10_top10_genres_per_country.sql.sql](https://github.com/user-attachments/files/28268743/10_top10_genres_per_country.sql.sql)
-[09_video_count_per_country.sql.sql](https://github.com/user-attachments/files/28268742/09_video_count_per_country.sql.sql)
-[08_dramas_only.sql.sql](https://github.com/user-attachments/files/28268738/08_dramas_only.sql.sql)
-[07_halloween_genres.sql.sql](https://github.com/user-attachments/files/28268737/07_halloween_genres.sql.sql)
-[06_longest_movies_and_most_seasons.sql.sql](https://github.com/user-attachments/files/28268735/06_longest_movies_and_most_seasons.sql.sql)
-[05_top5_actors_type_breakdown.sql.sql](https://github.com/user-attachments/files/28268732/05_top5_actors_type_breakdown.sql.sql)
-[04_top10_countries_content_percentage.sql.sql](https://github.com/user-attachments/files/28268730/04_top10_countries_content_percentage.sql.sql)
-[03_top3_directors_per_country.sql.sql](https://github.com/user-attachments/files/28268729/03_top3_directors_per_country.sql.sql)
-[02_top10_genres_by_directors.sql.sql](https://github.com/user-attachments/files/28268728/02_top10_genres_by_directors.sql.sql)
-[01_content_per_country.sql.sql](https://github.com/user-attachments/files/28268727/01_content_per_country.sql.sql)
+
 # Netflix Content Analysis – SQL Project
 
 SQL queries for analyzing Netflix movies & TV shows.
